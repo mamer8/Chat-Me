@@ -1,4 +1,4 @@
-# amer_group
+# chat_me
 
 A new Flutter project.
 
